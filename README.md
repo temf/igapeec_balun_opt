@@ -1,4 +1,4 @@
-# IGA-PEEC-based Multi-Tapered Coaxial Balun Optimization
+# Results of a IGA-PEEC-based Multi-Tapered Coaxial Balun Optimization
 
 This repository contains support material for the paper 
 **Isogeometric Shape Optimization of Multi-Tapered Coaxial Baluns Simulated by an Integral Equation Method**
